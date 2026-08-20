@@ -8,3 +8,10 @@ a follow-up prompt for an open-ended explanation of why students selected their 
 A Kaggle competition on the dataset was hosted in 2025. Results from that dataset are available at https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings/. The site also contains the training set data from MIME.
 
 This repository contains the full training and validation set and the majority of the test set (minus 700 samples held out for AI benchmarking).
+
+Information about the dataset and the competition can be found in the following papers.
+
+Rittle-Johnson, B., Adler, R., Durkin, K., Burleigh, L., King, J., & Crossley, S A. (2025). Detecting Math Misconceptions: An AI Benchmark Dataset. In Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con) pp. 20–24, National Council on Measurement in Education (NCME).
+
+Crossley, S. A., Rittle-Johnson, B., Adler, R., Burleigh, L., Durkin, K., King, J., & Benner, M. (in press). Automated Approaches for Scoring Math Misunderstandings in Student Self-Explanations In Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con). National Council on Measurement in Education.
+
